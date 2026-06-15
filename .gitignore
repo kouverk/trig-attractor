@@ -1,3 +1,7 @@
-.DS_Store 
-img/*.jpg
+.DS_Store
 __pycache__/
+
+# Ignore the reference photos / scratch images in img/, but keep sample
+# stills (and any other project outputs) visible on the remote.
+img/*.jpg
+!*/stills/*
