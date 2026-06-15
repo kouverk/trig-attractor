@@ -1,6 +1,8 @@
 # Trigonometric attractor
 
-![Sample frame from our loop](ours/stills/the-good-one.jpg)
+<img src="ours/stills/the-good-one.jpg" alt="Sample frame from our loop" width="557">
+
+
 
 A recreation of the Simone Conradi animation:
 
